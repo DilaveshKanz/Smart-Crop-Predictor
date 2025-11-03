@@ -119,22 +119,6 @@ cd Smart-Crop-Predictor
   <li><b>Apply the advice:</b> Use the recommendation along with market and local knowledge</li>
 </ol>
 
-<hr>
-
-<h2>📁 Project Structure</h2>
-<pre><code>Smart-Crop-Predictor/
-├── train.py
-├── app.py
-├── crop_model.pkl
-├── Crop_recommendation.csv
-├── requirements.txt
-├── screenshot/
-│   └── app_screenshot.png
-└── README.md
-</code></pre>
-
-<hr>
-
 <h2>🧠 Model Performance</h2>
 <ul>
   <li><b>Algorithm:</b> Random Forest Classifier</li>
@@ -144,19 +128,9 @@ cd Smart-Crop-Predictor
   <li><b>Important Features:</b> Temperature, rainfall, NPK most significant</li>
 </ul>
 
-<hr>
-
-<h2>🌐 Deployment Options</h2>
-<ul>
-  <li><b>Local:</b> Run <code>python app.py</code></li>
-  <li><b>Cloud:</b> Hugging Face Spaces, Heroku, AWS/Azure/GCP, Vultr Cloud GPU</li>
-</ul>
-
-<hr>
-
 <h2>🔮 Future Enhancements</h2>
 <ul>
-  <li>Add regional crop varieties</li>
+  <li>Add more crop varieties</li>
   <li>Integrate weather API</li>
   <li>Fertilizer suggestions</li>
   <li>Multiple language support</li>
@@ -165,59 +139,5 @@ cd Smart-Crop-Predictor
   <li>Market price insights</li>
 </ul>
 
-<hr>
 
-<h2>📚 References</h2>
-<ul>
-  <li>Kaggle: Crop Recommendation Dataset</li>
-  <li>scikit-learn Random Forest</li>
-  <li>Gradio Documentation</li>
-</ul>
-
-<hr>
-
-<h2>🤝 Contributing</h2>
-<ol>
-  <li>Fork the repo</li>
-  <li>Create a feature branch</li>
-  <li>Commit</li>
-  <li>Push</li>
-  <li>Open a PR!</li>
-</ol>
-
-<hr>
-
-<h2>📄 License</h2>
-<p>MIT License</p>
-
-<hr>
-
-<h2>👨‍💻 Author</h2>
-<p>
-<b>Dilavesh Kanz</b><br>
-GitHub: <a href="https://github.com/DilaveshKanz">@DilaveshKanz</a><br>
-Project: <a href="https://github.com/DilaveshKanz/Smart-Crop-Predictor">Smart Crop Predictor</a>
-</p>
-
-<hr>
-
-<h2>🙏 Acknowledgments</h2>
-<ul>
-  <li>Kaggle Community Dataset</li>
-  <li>Built for hands-on ML skills</li>
-  <li>Inspired by sustainable farming practices</li>
-</ul>
-
-<hr>
-
-<h2>📞 Support</h2>
-<ul>
-  <li>Open a GitHub issue</li>
-  <li>Check existing issues</li>
-  <li>Contact via profile</li>
-</ul>
-
-<hr>
-
-<p align="center"><b>⭐ If you find this project helpful, star it on GitHub!</b></p>
 
