@@ -10,7 +10,7 @@
 <p>An intelligent machine learning application that recommends optimal crops based on soil nutrient levels and climatic conditions. Built to empower farmers and agricultural professionals with data-driven crop selection insights.</p>
 
 <p>
-  <img src="screenshot/app_screenshot.png" alt="App Screenshot" width="700">
+  <img src="[![Screenshot-2025-11-03-134114.png](https://i.postimg.cc/854zVqj6/Screenshot-2025-11-03-134114.png)](https://postimg.cc/vg1sr27Y)" width="700">
 </p>
 
 <hr>
