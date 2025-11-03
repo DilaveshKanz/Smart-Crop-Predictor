@@ -120,7 +120,7 @@ cd Smart-Crop-Predictor
   <li><b>Apply the advice:</b> Use the recommendation along with market and local knowledge</li>
 </ol>
 <hr>
-<h2>🔮 Future Enhancements</h2>
+<h2>🔮 Planned Future Enhancements</h2>
 <ul>
   <li>Add more crop varieties</li>
   <li>Integrate weather API</li>
