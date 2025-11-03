@@ -18,7 +18,8 @@
 <h2>🎯 Project Overview</h2>
 <p>
 Agriculture remains heavily dependent on traditional decision-making methods, which often lack precision in today's changing climate. This system bridges that gap by leveraging machine learning to analyze environmental parameters and predict the most suitable crop for cultivation.<br>
-<b>Live Demo:</b> <i>[Add your deployment link here]</i>
+  
+<b>Live Demo:</b> <i>https://huggingface.co/spaces/Dilavesh/smart-crop-recommendation</i>
 </p>
 
 <hr>
