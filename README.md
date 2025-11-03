@@ -119,16 +119,7 @@ cd Smart-Crop-Predictor
   <li><b>Get Recommendation:</b> Click "Submit" for the best crop suggestion</li>
   <li><b>Apply the advice:</b> Use the recommendation along with market and local knowledge</li>
 </ol>
-
-<h2>🧠 Model Performance</h2>
-<ul>
-  <li><b>Algorithm:</b> Random Forest Classifier</li>
-  <li><b>Training Accuracy:</b> ~99%</li>
-  <li><b>Test Accuracy:</b> 95%+</li>
-  <li><b>Cross-Validation:</b> K-fold</li>
-  <li><b>Important Features:</b> Temperature, rainfall, NPK most significant</li>
-</ul>
-
+<hr>
 <h2>🔮 Future Enhancements</h2>
 <ul>
   <li>Add more crop varieties</li>
