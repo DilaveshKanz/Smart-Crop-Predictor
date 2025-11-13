@@ -57,9 +57,9 @@ Agriculture remains heavily dependent on traditional decision-making methods, wh
     </tr>
   </thead>
   <tbody>
-    <tr><td>Nitrogen (N)</td><td>Nitrogen content in soil</td><td>kg/ha</td></tr>
-    <tr><td>Phosphorus (P)</td><td>Phosphorus content in soil</td><td>kg/ha</td></tr>
-    <tr><td>Potassium (K)</td><td>Potassium content in soil</td><td>kg/ha</td></tr>
+    <tr><td>Nitrogen (N)</td><td>Nitrogen content in soil</td></tr>
+    <tr><td>Phosphorus (P)</td><td>Phosphorus content in soil</td></tr>
+    <tr><td>Potassium (K)</td><td>Potassium content in soil</td></tr>
     <tr><td>Temperature</td><td>Average temperature</td><td>°C</td></tr>
     <tr><td>Humidity</td><td>Relative humidity</td><td>%</td></tr>
     <tr><td>pH</td><td>Soil pH value</td><td>0-14 scale</td></tr>
