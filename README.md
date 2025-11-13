@@ -5,6 +5,7 @@
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python"></a>
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/ML-Random%20Forest-green.svg" alt="Random Forest"></a>
   <a href="https://gradio.app/"><img src="https://img.shields.io/badge/Interface-Gradio-orange.svg" alt="Gradio"></a>
+  <a href='https://huggingface.co/spaces/Dilavesh/smart-crop-recommendation/'><img src = "https://img.shields.io/badge/Hugging-Space-yellow.svg" alt="Hugging Space"
 </p>
 
 <p>An intelligent machine learning application that recommends optimal crops based on soil nutrient levels and climatic conditions. Built to empower farmers and agricultural professionals with data-driven crop selection insights.</p>
